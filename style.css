@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffff;
+    color: #4e6ef2;
+}
+.jumbotron {
+    background-color: #E81C25;    text-align: center;
+border-radius: 3%;}
+
+.jumbotron h1,.jumbotron P, .jumbotron h  {
+    color: #FFFFFF; 
+}
+section h2 {
+    color: #E81C25;
+background-color:#fa326417
+}
+.btn-primary {
+    background-color: #4e6ef2; /* Красный цвет для кнопок */
+}
+.niz{
+    text-align: center;
+    background-color: #6e4bfa; /* Красный фон для подвала */
+    color: #ffffff; 
+    width: 100%;
+}
+.table {
+    margin: 20px 0; /* Отступы сверху и снизу */
+
+}
+
+.table th, .table td, .table th, .table pre {    
+text-align: left; /* Выравнивание текста по левому краю */
+background-color: #fff; /* Цвет фона для заголовков */
+    color: #4e6ef2; /* Цвет текста для заголовков */
+  }
